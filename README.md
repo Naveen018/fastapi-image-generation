@@ -5,6 +5,15 @@ This FastAPI application uses the [Replicate API](https://replicate.com/) to gen
 - Generate images based on a given prompt.
 - Fine-tune a model using provided training data.
 
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [API Endpoints](#api-endpoints)
+- [Contact](#contact)
+
 ## Features
 - **Image Generation**: Uses Stable Diffusion to generate images from text prompts.
 - **Model Fine-Tuning**: Fine-tune models with custom training data.
@@ -123,3 +132,10 @@ Generated images are saved in the `static/images` folder with timestamped filena
 mkdir -p static/images
 ```
 
+---
+
+## Contact
+
+For any issues or inquiries, please contact:
+- **Name**: Naveen V
+- **Email**: naveenv3112000@gmail.com
