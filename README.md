@@ -71,7 +71,7 @@ This FastAPI application uses the [Replicate API](https://replicate.com/) to gen
 
 ---
 
-## Endpoints
+## API Endpoints
 
 ### 1. **Generate Image**
 - **Endpoint**: `/generate`
