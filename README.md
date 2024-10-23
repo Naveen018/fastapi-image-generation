@@ -12,6 +12,7 @@ This FastAPI application uses the [Replicate API](https://replicate.com/) to gen
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
+- [Directory Structure](#directory-structure)
 - [Contact](#contact)
 
 ## Features
