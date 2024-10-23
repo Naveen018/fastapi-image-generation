@@ -27,7 +27,7 @@ This FastAPI application uses the [Replicate API](https://replicate.com/) to gen
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Naveen018/fastapi-image-generation.git
-   cd fastapi-replicate-app
+   cd fastapi-image-generation
    ```
 
 2. **Create and activate a virtual environment**:
